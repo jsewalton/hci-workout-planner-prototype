@@ -1,5 +1,7 @@
 # FitSync - Workout App Prototype 2
 
+This high fidelity prototype was generated for CS6750 HCI at Georgia Tech with the help of GitHub Copilot.
+
 ## High-Fidelity Mobile Prototype
 
 This is an enhanced, high-fidelity prototype of the FitSync workout planning application, designed specifically for mobile interfaces. The prototype demonstrates a complete user onboarding flow that personalizes workout schedules based on user preferences and calendar integration.
