@@ -1,4 +1,4 @@
-# FitSync - Workout App Prototype 2
+# FitSync - Workout App Prototype
 
 This high fidelity prototype was generated for CS6750 HCI at Georgia Tech with the help of GitHub Copilot.
 
